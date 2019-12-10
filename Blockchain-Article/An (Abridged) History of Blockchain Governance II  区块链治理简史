@@ -9,3 +9,11 @@ Link:https://medium.com/@robertgreenfieldiv/an-abridged-history-of-blockchain-go
 In a much longer post（https://medium.com/@robertgreenfieldiv/a-history-of-blockchain-governance-5b807052e720）, I dived into the details of how governance models have evolved throughout the blockchain ecosystem since the first DAO developed in 2015. The analysis reviews the Ethereum DAO, Decred, adChain, EOSio, DigixDAO, the Enterprise Ethereum Alliance (EEA), the Libra Association, MakerDAO, and Dash, and resulted in the development of Greenfield’s Governance Assessment Framework (GGAF)（https://docs.google.com/presentation/d/16PK2_a1OoeLTc32AdpwSNl_styLgQbEmoUT4N1vu-xo/edit#slide=id.g602c8d4d00_0_134）, which organizes governance models by several high-level factors (Governance Type, Governance Vehicle, and Voter Type) and sub-factors as shown below.
 
 在之前一篇更长的文章中，我深入讨论了自2015年第一个DAO发展以来，治理模型在区块链生态系统中是如何发展之细节。这篇文章分析回顾了以太坊DAO，德信币，adChain，EOSio，DigixDAO，以太坊企业联盟（EEA），Libra协会，MakerDAO还有达世币，并最终推动了格林菲尔德治理评估框架（GGAF）的发展，该治理框架包含了由多个高级因子（治理类型，治理媒介，投票者）和下图所示之副因子影响的治理模型。
+
+GGAF looks to support ecosystem developers to identify governance model patterns that serve as contributing factors to varying levels of governance success, and thus help them in their decision when developing their own governance models. The GGAF is an iterative framework that, as more governance models deploy into the wild, supports the development of best practice guidelines in blockchain governance.
+
+GGAF希望能帮助生态系统中的开发者明确治理模型的模式，这种模式是不同层级做到成功治理的影响因素，这也将帮助开发者在开发适合自己的治理模型时做出正确决策。GGAF是一个不断迭代的框架，随着治理模型的不断部署和更新，GGAF将不断发展并成为区块链治理中的最优实践指南。
+
+This brief serves the purpose of providing an abridged history of blockchain governance that, hopefully, won’t take 43 minutes to read! However, just in case, you can find an even shorter summary of the findings and framework here.
+
+这篇简短的文章将为大家展现区块链治理简史，让大家不用花43分钟的时间完成阅读。但以防万一，你可以在以下链接中找到针对治理模型框架和一些新发现的更简短的总结（链接：https://docs.google.com/presentation/d/16PK2_a1OoeLTc32AdpwSNl_styLgQbEmoUT4N1vu-xo/edit#slide=id.g60435f3bcf_0_9）。
