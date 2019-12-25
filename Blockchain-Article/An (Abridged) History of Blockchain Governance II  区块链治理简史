@@ -8,7 +8,7 @@ Link:https://medium.com/@robertgreenfieldiv/an-abridged-history-of-blockchain-go
 
 In a much longer post（https://medium.com/@robertgreenfieldiv/a-history-of-blockchain-governance-5b807052e720）, I dived into the details of how governance models have evolved throughout the blockchain ecosystem since the first DAO developed in 2015. The analysis reviews the Ethereum DAO, Decred, adChain, EOSio, DigixDAO, the Enterprise Ethereum Alliance (EEA), the Libra Association, MakerDAO, and Dash, and resulted in the development of Greenfield’s Governance Assessment Framework (GGAF)（https://docs.google.com/presentation/d/16PK2_a1OoeLTc32AdpwSNl_styLgQbEmoUT4N1vu-xo/edit#slide=id.g602c8d4d00_0_134）, which organizes governance models by several high-level factors (Governance Type, Governance Vehicle, and Voter Type) and sub-factors as shown below.
 
-在之前一篇更长的文章中，我深入讨论了自2015年第一个DAO发展以来，治理模型在区块链生态系统中是如何发展之细节。这篇文章分析回顾了以太坊DAO，德信币，adChain，EOSio，DigixDAO，以太坊企业联盟（EEA），Libra协会，MakerDAO还有达世币，并最终推动了格林菲尔德治理评估框架（GGAF）的发展，该治理框架包含了由多个高级因子（治理类型，治理媒介，投票者）和下图所示之副因子影响的治理模型。
+在之前一篇更长的文章中，我深入讨论了自2015年第一个DAO发展以来，治理模型在区块链生态系统中是如何发展之细节。这篇文章分析回顾了Ethereum DAO(以太坊DAO)，Decred(德信币)，adChain，EOSio，DigixDAO，Enterprise Ethereum Alliance（以太坊企业联盟 EEA），Libra Association(Libra协会)，MakerDAO还有Dash(达世币)，并最终推动了格林菲尔德治理评估框架（GGAF）的发展，该治理框架包含了由多个高级因子（治理类型，治理媒介，投票者）和下图所示之副因子影响的治理模型。
 
 GGAF looks to support ecosystem developers to identify governance model patterns that serve as contributing factors to varying levels of governance success, and thus help them in their decision when developing their own governance models. The GGAF is an iterative framework that, as more governance models deploy into the wild, supports the development of best practice guidelines in blockchain governance.
 
@@ -22,6 +22,14 @@ Blockchain Ecosystem’s Timeline of Governance
 
 区块链生态系统治理时间线
 
-Over the course of 4 years, a great deal of governance model evolution has taken place within the blockchain ecosystem. Interestingly enough, some of the more financially sustainable and community appreciated models were deployed earlier in this time span (Dash and Decred in 2015 and 2016 respectively) with partial implementations of their envisioned governance models that were soon completed over the next 3 years or so. The diversity of efforts ranges from Bitcoin-forked cryptocurrencies and smart contract enabled governance protocols to ecosystem growth foundation and association models. The following summarizes each initiative represented in the timeline:
+Over the course of 4 years, a great deal of governance model evolution has taken place within the blockchain ecosystem. Interestingly enough, some of the more financially sustainable and community appreciated models were deployed earlier in this time span (Dash and Decred in 2015 and 2016 respectively) with partial implementations of their envisioned governance models that were soon completed over  next 3 years or so. The diversity of efforts ranges from Bitcoin-forked cryptocurrencies and smart contract enabled governance protocols to ecosystem growth foundation and association models. The following summarizes each initiative represented in the timeline:
 
-在最近4年的发展进程中，区块链生态系统中的治理模型发生了翻天覆地的变化。有趣的是，一些经济可持续发展的和社区称赞的治理模型已在较早的时候被部署在网络上了（例如Dash和Decred,分别在2015年、2016年），当时他们部分应用了其设想的治理模型，未来三年左右这些模型预计将完成并悉数应用。我们大范围的进行了调研，从比特币分叉加密经济学和支持智能合约的治理协议，到生态系统增长之基础和关系模型。以下是我们在时间线中对每一项事件的总结：
+在最近4年的发展进程中，区块链生态系统中的治理模型发生了翻天覆地的变化。有趣的是，一些经济可持续发展的和社区称赞的治理模型已在较早的时候被部署在网络上了（例如Dash和Decred,分别在2015年、2016年），当时他们部分应用了其设想的治理模型，未来三年左右这些模型预计将完成并悉数应用。我们大范围的进行了调研，从比特币分叉加密经济学和支持智能合约的治理协议，到生态系统增长之基础和关系模型。以下是我们根据时间线对每一件代表性治理事件的总结：
+
+September 2016 — Dash Cryptocurrency & Blockchain
+
+2016年9月 - Dash（达世币）加密货币与区块链
+
+Based on the Bitcoin project, Dash is a privacy centric digital currency that was launched on January 18, 2014 by founder Evan Duffield. Dash is based on a decentralized peer-to-peer network, and secured by strong cryptography, and offers a safe and user-friendly payment method without barriers and boasts claim of developing the first Decentralized Autonomous Organization (DAO) based governance model in the blockchain ecosystem (Dash). Dash leverages a decentralized management system based on their masternode voting mechanism, in which full node operators have the ability to vote on proposals to be funded by the Dash network’s Decentralized Governance Fund. The fund is incorporated in the the Dash blockchain’s reward system (and was also developed via a voted on proposal) and it accrues 10% of each block reward.
+
+在比特币的基础上，Dash是在2014年1月18日发布的一种以隐私为中心的数字货币，由Evan Duffield创建。Dash基于去中心化的对等网络，由密码学确保安全性，为用户提供了一种安全、友好且无障碍的支付方式，其声称在区块链经济系统中开发了首个基于去中心化自治组织（DAO）的治理模型。
