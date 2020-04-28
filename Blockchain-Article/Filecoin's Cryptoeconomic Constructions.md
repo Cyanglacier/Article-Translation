@@ -46,4 +46,4 @@ Clients’ role in the Filecoin economy is straightforward, but critical: they u
 
 Developers are a bridge between clients and the Filecoin network. They build applications to improve clients’ access to Filecoin’s storage and retrieval markets.
 
-**开发者**在Filecoin网络中扮演者
+**开发者**在Filecoin网络中扮演
